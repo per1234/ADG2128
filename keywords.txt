@@ -1,0 +1,63 @@
+#######################################
+# Syntax Coloring Map For ADG2128
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PatchBay	KEYWORD1
+ADG2128		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin KEYWORD2
+set KEYWORD2
+read KEYWORD2
+clear KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MATRIX0 LITERAL1
+MATRIX1 LITERAL1
+MATRIX2 LITERAL1
+MATRIX3 LITERAL1
+MATRIX4 LITERAL1
+MATRIX5 LITERAL1
+MATRIX6 LITERAL1
+MATRIX7 LITERAL1
+ON LITERAL1
+OFF LITERAL1
+X0 LITERAL1
+X1 LITERAL1
+X2 LITERAL1
+X3 LITERAL1
+X4 LITERAL1
+X5 LITERAL1
+X6 LITERAL1
+X7 LITERAL1
+X8 LITERAL1
+X9 LITERAL1
+X10 LITERAL1
+X11 LITERAL1
+Y0 LITERAL1
+Y1 LITERAL1
+Y2 LITERAL1
+Y3 LITERAL1
+Y4 LITERAL1
+Y5 LITERAL1
+Y6 LITERAL1
+Y7 LITERAL1
+RBY0 LITERAL1
+RBY1 LITERAL1
+RBY2 LITERAL1
+RBY3 LITERAL1
+RBY4 LITERAL1
+RBY5 LITERAL1
+RBY6 LITERAL1
+RBY7 LITERAL1
